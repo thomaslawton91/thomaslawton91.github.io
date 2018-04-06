@@ -15,7 +15,9 @@
 * three.js
 * Bootstrap
 * SCSS
+
 ---
+
 **My resume can be found [here](https://resume.creddle.io/resume/fm00htqyj0k)**
 
 ---
