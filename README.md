@@ -21,5 +21,5 @@
 **My resume can be found [here](https://resume.creddle.io/resume/fm00htqyj0k)**
 
 ---
-_This is a placeholder personal site I'll be using while I create my portfolio site that can be found [here](https://github.com/thomaslawton91/portfolio)_
+_This is a placeholder personal site I'll be using while I create my portfolio site_
 
